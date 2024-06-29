@@ -19,4 +19,4 @@ const numbertruc = Math.trunc(number);
 //* obtiene un numero aleatorio entre el (0) y el numero por el que la multiplicamos (101)
 //* incluye el (0), no incluye el (101)
 const numberRandom = Math.random()*101;
-//console.log(parseInt(numberRandom))
+console.log(parseInt(numberRandom))
